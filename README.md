@@ -25,10 +25,10 @@ It is recomended that write your model with keras. It will be much easier, but p
 <br>
 
 ## Features
-Here are notes for this code 
+Here is some notes for this code 
 1. Sub-classing API model
-2. Gradient tape
-3. Models are seperated by class
+2. Gradient tape for compute gradient(not using model.compile)
+3. Models are seperated by classes
 <br>
 
 ### used version
