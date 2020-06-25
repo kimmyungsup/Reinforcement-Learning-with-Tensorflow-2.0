@@ -31,9 +31,11 @@ Here is some notes for this code
 3. Models are seperated by classes
 <br>
 
-### used version
+### Version
 tensorflow-gpu == 2.0.0rc1<br>
 gym == 0.14.0<br>
 numpy == 1.17.2<br>
 (python = 3.6.9)<br>
 
+<br>
+for TD3(twin delayed DDPG) and SAC(Soft Actor Critic), please check the "motion planning" repository.
